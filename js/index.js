@@ -1,0 +1,1 @@
+$('.parallax-window').parallax({imageSrc: '/assets/images/julianinstagram/lifestyle/pluit1.jpg'});

@@ -1,0 +1,8 @@
+{
+  "name": "jluminous-bower",
+  "description": "test jluminous-bower",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
